@@ -1,4 +1,4 @@
-4package com.dio.santader.banklineapi.model;
+package com.dio.santader.banklineapi.model;
 
 import javax.persistence.Column;
 import javax.persistence.Embeddable;

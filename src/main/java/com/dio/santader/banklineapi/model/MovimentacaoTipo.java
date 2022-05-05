@@ -1,7 +1,6 @@
 package com.dio.santader.banklineapi.model;
 
-public class MovimentacaoTipo {
-	RECEITA,
-	DESPESA
-
+public enum MovimentacaoTipo{
+		RECEITA,
+		DESPESA
 }

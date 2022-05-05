@@ -14,7 +14,7 @@ import javax.persistence.Table;
 
 public class Correntista {
 	@Id
-	@GeneratedValue(stategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
 	
 	@Column(length = 20)
